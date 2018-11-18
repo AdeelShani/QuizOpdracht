@@ -1,0 +1,10 @@
+C:\Users\17019060\source\repos\QuizOpdracht\QuizOpdracht\bin\Debug\netcoreapp2.1\QuizOpdracht.deps.json
+C:\Users\17019060\source\repos\QuizOpdracht\QuizOpdracht\bin\Debug\netcoreapp2.1\QuizOpdracht.runtimeconfig.json
+C:\Users\17019060\source\repos\QuizOpdracht\QuizOpdracht\bin\Debug\netcoreapp2.1\QuizOpdracht.runtimeconfig.dev.json
+C:\Users\17019060\source\repos\QuizOpdracht\QuizOpdracht\bin\Debug\netcoreapp2.1\QuizOpdracht.dll
+C:\Users\17019060\source\repos\QuizOpdracht\QuizOpdracht\bin\Debug\netcoreapp2.1\QuizOpdracht.pdb
+C:\Users\17019060\source\repos\QuizOpdracht\QuizOpdracht\obj\Debug\netcoreapp2.1\QuizOpdracht.csproj.CoreCompileInputs.cache
+C:\Users\17019060\source\repos\QuizOpdracht\QuizOpdracht\obj\Debug\netcoreapp2.1\QuizOpdracht.AssemblyInfoInputs.cache
+C:\Users\17019060\source\repos\QuizOpdracht\QuizOpdracht\obj\Debug\netcoreapp2.1\QuizOpdracht.AssemblyInfo.cs
+C:\Users\17019060\source\repos\QuizOpdracht\QuizOpdracht\obj\Debug\netcoreapp2.1\QuizOpdracht.dll
+C:\Users\17019060\source\repos\QuizOpdracht\QuizOpdracht\obj\Debug\netcoreapp2.1\QuizOpdracht.pdb
